@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Rubeus](https://rubeus.com.br/)
+- 🌱 I’m currently learning to live
 <!--
 **jgt-josegeraldo/jgt-josegeraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
