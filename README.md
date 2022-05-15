@@ -15,6 +15,8 @@
 
 ---
 
+[![LinkedIn]](https://www.linkedin.com/in/jonatasmacedo/)
+
 <!--
 **jgt-josegeraldo/jgt-josegeraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
