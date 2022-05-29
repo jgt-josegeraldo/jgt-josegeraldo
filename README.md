@@ -45,8 +45,8 @@
 ### Tools
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![VIM](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -73,7 +73,7 @@
 
 ## You can find me in:
 
-[![Gmail](https://img.shields.io/badge/jgt.josegeraldo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jgt.josegeraldo@gmail.com)
+[![Gmail](https://img.shields.io/badge/jgt.josegeraldo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jgt.josegeraldo@gmail.com)
 [![Instagram](https://img.shields.io/badge/jgt.josegeraldo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jgt.josegeraldo/)
 [![Facebook](https://img.shields.io/badge/josegeraldo.costa.129-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/josegeraldo.costa.129)
 [![LinkedIn](https://img.shields.io/badge/josegeraldocosta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josegeraldocosta/)
