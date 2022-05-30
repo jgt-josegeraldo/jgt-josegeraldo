@@ -68,6 +68,9 @@
 <a href="https://github.com/jgt-josegeraldo">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgt-josegeraldo&layout=compact&langs_count=6">
 </a>
+<a href="https://github.com/jgt-josegeraldo">
+  <img align="center" height="180rem" src="https://github-readme-streak-stats.herokuapp.com?user=jgt-josegeraldo&theme=omn">
+</a>
 
 ---
 
