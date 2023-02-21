@@ -106,5 +106,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 https://shields.io/endpoint
-
+https://github.com/Ileriayo/markdown-badges
+https://www.creative-tim.com/blog/educational-tech/how-to-create-github-profile/
+https://github.com/jtemporal
+https://github.com/dantonrafael
 -->
